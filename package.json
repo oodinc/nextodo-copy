@@ -13,6 +13,7 @@
     "autosize": "^5.0.1",
     "clsx": "^1.1.1",
     "corejs": "^1.0.0",
+    "learn-starter": "file:",
     "next": "^11.1.2",
     "nprogress": "^0.2.0",
     "react": "^17.0.2",
